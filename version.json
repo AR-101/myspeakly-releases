@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.2.0",
+  "latest_version": "0.1.0",
   "min_supported_version": "0.1.0",
-  "download_url": "https://github.com/AR-101/myspeakly-releases/releases",
-  "message": "A new version is available."
+  "download_url": "https://github.com/AR-101/myspeakly-releases/releases/latest",
+  "message": "A new version of Speakly is available."
 }
