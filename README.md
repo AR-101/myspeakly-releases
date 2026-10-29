@@ -15,17 +15,12 @@
 </p>
 
 <!--
-  Promo video. The poster links to the raw assets/speakly-promo.mp4 (GitHub downloads it; its file page cannot play it).
-  For an inline player instead: edit this README on github.com, drag speakly-promo.mp4 into the
-  editor, and replace this block with the user-attachments URL GitHub inserts.
+  Promo video. The URL below is a GitHub video upload, so it plays inline with sound.
+  To replace it: edit this README on github.com, drag the new MP4 into the editor and swap the URL.
+  The same video is in assets/speakly-promo.mp4 for download.
 -->
-<p align="center">
-  <a href="https://github.com/AR-101/myspeakly-releases/raw/main/assets/speakly-promo.mp4">
-    <img src="assets/promo-poster.jpg" alt="Watch the 35 second Speakly video" width="720">
-  </a>
-  <br>
-  <sub><a href="https://github.com/AR-101/myspeakly-releases/raw/main/assets/speakly-promo.mp4">Download the 35 second video (with sound)</a></sub>
-</p>
+
+https://github.com/user-attachments/assets/6884af6e-221a-48dd-8cd1-5c50590da29b
 
 ---
 
