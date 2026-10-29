@@ -14,6 +14,19 @@
   Windows 10 and 11, 64-bit. Free during beta.
 </p>
 
+<!--
+  Promo video. The poster links to assets/speakly-promo.mp4, which plays with sound on GitHub.
+  For an inline player instead: edit this README on github.com, drag speakly-promo.mp4 into the
+  editor, and replace this block with the user-attachments URL GitHub inserts.
+-->
+<p align="center">
+  <a href="assets/speakly-promo.mp4">
+    <img src="assets/promo-poster.jpg" alt="Watch the 35 second Speakly video" width="720">
+  </a>
+  <br>
+  <sub><a href="assets/speakly-promo.mp4">Watch the 35 second video (with sound)</a></sub>
+</p>
+
 ---
 
 ## What Speakly is
